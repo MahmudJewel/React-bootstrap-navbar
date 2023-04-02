@@ -1,10 +1,13 @@
 # Responsive navbar using Bootstrap.
+## Desktop View
 
 ![1](https://user-images.githubusercontent.com/35461355/229342194-a4382b5e-6753-4f9f-9b3f-d9db35419177.png)
 
+## Mobile View-1
 
 ![2](https://user-images.githubusercontent.com/35461355/229342210-cee90dd6-47df-481f-9c9c-1dd03454bb16.png)
 
+## Mobile View-2
 
 ![3](https://user-images.githubusercontent.com/35461355/229342216-bf727f0a-770e-4f75-8e15-da7169b332c1.png)
 
