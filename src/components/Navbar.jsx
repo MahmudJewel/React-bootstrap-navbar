@@ -9,7 +9,7 @@ function NavScrollExample() {
     return (
         <Navbar bg="light" expand="lg">
             <Container >
-                <Navbar.Brand href="/">Navbar scroll</Navbar.Brand>
+                <Navbar.Brand href="/">Mahmud</Navbar.Brand>
                 <div></div>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
